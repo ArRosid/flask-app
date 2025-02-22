@@ -3,7 +3,7 @@ name: Belajar CI/CD Python
 on:
   push:
     branches:
-      - dev1
+      - dev2
 
 jobs:
   install:
